@@ -1,3 +1,2 @@
-"Hello Git" 
-"Hello Git" 
-This is yet another edit of the file..
+Hello there my friends
+Version #3
